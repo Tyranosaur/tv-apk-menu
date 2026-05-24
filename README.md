@@ -7,13 +7,13 @@ https://tyranosaur.github.io/tv-apk-menu/
 ## Add an APK
 
 1. Copy the APK file into `apks`.
-2. Run `.\publish.ps1`.
+2. Commit and push the change, or run `.\publish.ps1`.
 3. Wait about a minute for GitHub Pages to update.
 
 ## Remove an APK
 
 1. Delete the APK file from `apks`.
-2. Run `.\publish.ps1`.
+2. Commit and push the change, or run `.\publish.ps1`.
 3. Wait about a minute for GitHub Pages to update.
 
 ## Downloader

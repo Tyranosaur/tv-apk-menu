@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="ru">
 <head>
   <meta charset="utf-8">
@@ -16,94 +16,53 @@
     .app:focus, .app:hover { background: #252c37; transform: scale(1.02); }
     .name { font-size: 27px; font-weight: 700; overflow-wrap: anywhere; }
     .meta { color: #d7dde7; font-size: 18px; }
+    .empty { max-width: 980px; margin: 0 auto; color: #d7dde7; font-size: 24px; }
   </style>
 </head>
 <body>
   <header>
     <h1>Мои APK</h1>
-    <div class="count">20 приложений</div>
+    <div class="count" id="count">Загрузка...</div>
   </header>
-  <main>
-      <a class="app" href="apks/aerial-views-1.8.2.apk" download>
-        <span class="name">aerial-views-1.8.2</span>
-        <span class="meta">7.8 MB</span>
-      </a>
-      <a class="app" href="apks/analiti%2B2023.12.75001.75001.apk" download>
-        <span class="name">analiti+2023.12.75001.75001</span>
-        <span class="meta">36.3 MB</span>
-      </a>
-      <a class="app" href="apks/BrowseHere-Browser-for-TV-official.apk" download>
-        <span class="name">BrowseHere-Browser-for-TV-official</span>
-        <span class="meta">19.7 MB</span>
-      </a>
-      <a class="app" href="apks/cm-aptoidetv-pt-542-5.1.3.apk" download>
-        <span class="name">cm-aptoidetv-pt-542-5.1.3</span>
-        <span class="meta">11.5 MB</span>
-      </a>
-      <a class="app" href="apks/DRM%20Play%20Lite%201.56.2.apk" download>
-        <span class="name">DRM Play Lite 1.56.2</span>
-        <span class="meta">3.9 MB</span>
-      </a>
-      <a class="app" href="apks/Kinobase-TV-v5.apk" download>
-        <span class="name">Kinobase-TV-v5</span>
-        <span class="meta">0 MB</span>
-      </a>
-      <a class="app" href="apks/KinoTrend-2.3.8.apk" download>
-        <span class="name">KinoTrend-2.3.8</span>
-        <span class="meta">3.8 MB</span>
-      </a>
-      <a class="app" href="apks/krasview%20(1.1.69)%20%40TVBoxStorage.apk" download>
-        <span class="name">krasview (1.1.69) @TVBoxStorage</span>
-        <span class="meta">29.3 MB</span>
-      </a>
-      <a class="app" href="apks/lampa-v1.12.5-app-lite-release.apk" download>
-        <span class="name">lampa-v1.12.5-app-lite-release</span>
-        <span class="meta">11.2 MB</span>
-      </a>
-      <a class="app" href="apks/LazyMedia%20Deluxe-3.374.apk" download>
-        <span class="name">LazyMedia Deluxe-3.374</span>
-        <span class="meta">10.6 MB</span>
-      </a>
-      <a class="app" href="apks/NU%D0%9C%20%E2%80%94%20N%D0%BE%20UI%20M%D0%BEvies%20v1.0.135.apk" download>
-        <span class="name">NUМ — Nо UI Mоvies v1.0.135</span>
-        <span class="meta">14.1 MB</span>
-      </a>
-      <a class="app" href="apks/ott-play-foss-v1.54.apk" download>
-        <span class="name">ott-play-foss-v1.54</span>
-        <span class="meta">4.7 MB</span>
-      </a>
-      <a class="app" href="apks/SerialTrend-0.0.4.apk" download>
-        <span class="name">SerialTrend-0.0.4</span>
-        <span class="meta">3.8 MB</span>
-      </a>
-      <a class="app" href="apks/ShowJet-1.7.60-full.apk" download>
-        <span class="name">ShowJet-1.7.60-full</span>
-        <span class="meta">34.7 MB</span>
-      </a>
-      <a class="app" href="apks/teamplayer-2.2.2.apk" download>
-        <span class="name">teamplayer-2.2.2</span>
-        <span class="meta">10.5 MB</span>
-      </a>
-      <a class="app" href="apks/tinstaller.apk" download>
-        <span class="name">tinstaller</span>
-        <span class="meta">2.9 MB</span>
-      </a>
-      <a class="app" href="apks/TorrServe_MatriX.141.Client-release.apk" download>
-        <span class="name">TorrServe_MatriX.141.Client-release</span>
-        <span class="meta">11.3 MB</span>
-      </a>
-      <a class="app" href="apks/Vimu-MediaPlayer-10.83-official.apk" download>
-        <span class="name">Vimu-MediaPlayer-10.83-official</span>
-        <span class="meta">57.8 MB</span>
-      </a>
-      <a class="app" href="apks/VK-Video-v.2.51.atv.apk" download>
-        <span class="name">VK-Video-v.2.51.atv</span>
-        <span class="meta">34.6 MB</span>
-      </a>
-      <a class="app" href="apks/X-plore-File-Manager-4.46.00-official.apk" download>
-        <span class="name">X-plore-File-Manager-4.46.00-official</span>
-        <span class="meta">10.7 MB</span>
-      </a>
-  </main>
+  <main id="apps"></main>
+  <script>
+    const repoApi = "https://api.github.com/repos/Tyranosaur/tv-apk-menu/contents/apks";
+    const apps = document.getElementById("apps");
+    const count = document.getElementById("count");
+
+    function sizeMb(bytes) {
+      return `${Math.round((bytes / 1024 / 1024) * 10) / 10} MB`;
+    }
+
+    function nameWithoutExtension(name) {
+      return name.replace(/\.apk$/i, "");
+    }
+
+    fetch(repoApi)
+      .then((response) => response.ok ? response.json() : Promise.reject())
+      .then((files) => {
+        const apks = files
+          .filter((file) => file.type === "file" && /\.apk$/i.test(file.name))
+          .sort((a, b) => a.name.localeCompare(b.name));
+
+        count.textContent = `${apks.length} приложений`;
+        apps.innerHTML = "";
+
+        for (const file of apks) {
+          const link = document.createElement("a");
+          link.className = "app";
+          link.href = file.download_url;
+          link.download = "";
+          link.innerHTML = `<span class="name"></span><span class="meta"></span>`;
+          link.querySelector(".name").textContent = nameWithoutExtension(file.name);
+          link.querySelector(".meta").textContent = sizeMb(file.size);
+          apps.appendChild(link);
+        }
+      })
+      .catch(() => {
+        count.textContent = "Ошибка";
+        apps.outerHTML = '<p class="empty">Не получилось загрузить список APK. Попробуйте обновить страницу.</p>';
+      });
+  </script>
 </body>
 </html>
