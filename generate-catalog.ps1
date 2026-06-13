@@ -11,7 +11,6 @@ foreach ($property in $descriptionObject.PSObject.Properties) {
 $aapt = "C:\Users\putin\Documents\Codex\2026-05-24\https-kinobase-org-homatics-box-4\.tools\android-sdk\build-tools\35.0.0\aapt.exe"
 
 New-Item -ItemType Directory -Force -Path $iconDir | Out-Null
-Add-Type -AssemblyName System.IO.Compression.FileSystem
 
 function Get-Description([string]$name) {
     $lower = $name.ToLowerInvariant()
@@ -28,33 +27,34 @@ $catalog = foreach ($file in Get-ChildItem -LiteralPath $apkDir -File -Filter "*
     $ErrorActionPreference = "Continue"
     $badging = & $aapt dump badging $file.FullName 2>$null
     $ErrorActionPreference = $oldPreference
+
     $label = [IO.Path]::GetFileNameWithoutExtension($file.Name)
     $package = ""
-    $iconPath = ""
-
+    $versionName = ""
     foreach ($line in $badging) {
-        if ($line -match "^package: name='([^']+)'") { $package = $matches[1] }
-        if ($line -match "^application-label:'([^']+)'") { $label = $matches[1] }
-        if ($line -match "^application-icon-\d+:'([^']+)'") { $iconPath = $matches[1] }
+        if ($line -match "^package: name='([^']+)'.*?versionName='([^']+)'") {
+            $package = $matches[1]
+            $versionName = $matches[2]
+        }
+        if ($line -match "^application-label:'([^']+)'") {
+            $label = $matches[1]
+        }
+    }
+    if (!$versionName -and $file.BaseName -match '(?i)(?:v|ver)?(\d+(?:\.\d+){1,3}[a-z]?)') {
+        $versionName = $matches[1]
+    }
+
+    # KOSINST is the catalog itself, so it must not list itself as an installable app.
+    if ($package -eq "org.example.mytvinstaller") {
+        continue
     }
 
     $safeName = ($file.BaseName -replace '[^A-Za-z0-9._-]', '_') + ".png"
     $iconTarget = Join-Path $iconDir $safeName
-    if ($iconPath -and !(Test-Path -LiteralPath $iconTarget)) {
-        $zip = [IO.Compression.ZipFile]::OpenRead($file.FullName)
-        try {
-            $entry = $zip.GetEntry($iconPath)
-            if ($entry) {
-                [IO.Compression.ZipFileExtensions]::ExtractToFile($entry, $iconTarget, $true)
-            }
-        } finally {
-            $zip.Dispose()
-        }
-    }
-
     [ordered]@{
         name = $file.Name
         displayName = $label
+        versionName = $versionName
         description = Get-Description $file.Name
         packageName = $package
         size = $file.Length
