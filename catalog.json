@@ -20,6 +20,16 @@
         "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/analiti_2023.12.75001.75001.png"
     },
     {
+        "name":  "app_last.apk",
+        "displayName":  "Lift",
+        "versionName":  "0.2.42",
+        "description":  "Lift — медиаплеер и каталог видеоконтента для телевизора.",
+        "packageName":  "io.lift.app",
+        "size":  3480088,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/app_last.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/app_last.png"
+    },
+    {
         "name":  "BrowseHere-Browser-for-TV-official.apk",
         "displayName":  "BrowseHere",
         "versionName":  "8.02.085_eb15043_251031_gp",
@@ -60,6 +70,16 @@
         "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/EasyInstaller_v4_adb.png"
     },
     {
+        "name":  "FileManager-Plus-3.7.8.apk",
+        "displayName":  "File Manager +",
+        "versionName":  "3.7.8",
+        "description":  "Удобный файловый менеджер для Android TV и мобильных устройств.",
+        "packageName":  "com.alphainventor.filemanager",
+        "size":  24237018,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/FileManager-Plus-3.7.8.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/FileManager-Plus-3.7.8.png"
+    },
+    {
         "name":  "HDRezka-Android-1.1.6.apk",
         "displayName":  "HDRezka",
         "versionName":  "1.1.6",
@@ -70,14 +90,14 @@
         "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/HDRezka-Android-1.1.6.png"
     },
     {
-        "name":  "k1.34.apk",
-        "displayName":  "Kinopub",
-        "versionName":  "1.34",
-        "description":  "Клиент видеосервиса Kinopub для Android TV.",
-        "packageName":  "com.kinopub",
-        "size":  7852009,
-        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/k1.34.apk",
-        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/k1.34.png"
+        "name":  "jellyfin-androidtv-v0.19.9-debug.apk",
+        "displayName":  "Jellyfin Debug",
+        "versionName":  "0.19.9",
+        "description":  "Клиент домашнего медиасервера Jellyfin для Android TV.",
+        "packageName":  "org.jellyfin.androidtv.debug",
+        "size":  28386080,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/jellyfin-androidtv-v0.19.9-debug.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/jellyfin-androidtv-v0.19.9-debug.png"
     },
     {
         "name":  "KinoTrend-2.3.8.apk",
@@ -110,14 +130,14 @@
         "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/lampa-v1.12.5-app-lite-release.png"
     },
     {
-        "name":  "LazyMediaDeluxe_ver3.454.apk",
+        "name":  "LazyMediaDeluxe_ver3.455.apk",
         "displayName":  "LazyMedia Deluxe",
-        "versionName":  "3.454",
+        "versionName":  "3.455",
         "description":  "Медиакаталог и агрегатор видеоконтента.",
         "packageName":  "com.lazycatsoftware.lmd",
-        "size":  11143573,
-        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/LazyMediaDeluxe_ver3.454.apk",
-        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/LazyMediaDeluxe_ver3.454.png"
+        "size":  11143617,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/LazyMediaDeluxe_ver3.455.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/LazyMediaDeluxe_ver3.455.png"
     },
     {
         "name":  "NUМ — Nо UI Mоvies v1.0.135.apk",
@@ -138,6 +158,16 @@
         "size":  4957619,
         "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/ott-play-foss-v1.54.apk",
         "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/ott-play-foss-v1.54.png"
+    },
+    {
+        "name":  "PrismaTV-1.2.1.apk",
+        "displayName":  "PRISMA",
+        "versionName":  "1.2.1",
+        "description":  "PRISMA — медиаприложение для просмотра видеоконтента на телевизоре.",
+        "packageName":  "top.rootu.prisma",
+        "size":  12234104,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/PrismaTV-1.2.1.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/PrismaTV-1.2.1.png"
     },
     {
         "name":  "SerialTrend-0.0.4.apk",
