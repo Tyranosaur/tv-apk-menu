@@ -90,16 +90,6 @@
         "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/KinoTrend-2.3.8.png"
     },
     {
-        "name":  "KinozalTV-Client-1.12.apk",
-        "displayName":  "Кинозал.ТВ",
-        "versionName":  "1.12",
-        "description":  "Клиент Кинозал.ТВ для поиска и просмотра контента.",
-        "packageName":  "com.kitsunepll.kinozaltv",
-        "size":  4744162,
-        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/KinozalTV-Client-1.12.apk",
-        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/KinozalTV-Client-1.12.png"
-    },
-    {
         "name":  "krasview (1.1.69) @TVBoxStorage.apk",
         "displayName":  "krasview",
         "versionName":  "1.1.69",
