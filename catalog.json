@@ -72,15 +72,6 @@
         "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/k1.34.png"
     },
     {
-        "name":  "Kinobase-TV-v14.apk",
-        "displayName":  "Kinobase TV",
-        "description":  "Домашний видеокаталог Kinobase для телевизора.",
-        "packageName":  "org.example.kinobasetv",
-        "size":  30710,
-        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/Kinobase-TV-v14.apk",
-        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/Kinobase-TV-v14.png"
-    },
-    {
         "name":  "KinoTrend-2.3.8.apk",
         "displayName":  "KinoTrend",
         "description":  "Каталог фильмов с интерфейсом для Android TV.",
@@ -88,6 +79,15 @@
         "size":  3944263,
         "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/KinoTrend-2.3.8.apk",
         "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/KinoTrend-2.3.8.png"
+    },
+    {
+        "name":  "KinozalTV-Client-1.12.apk",
+        "displayName":  "Кинозал.ТВ",
+        "description":  "ÐŸÑ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ Ð´Ð»Ñ Android TV.",
+        "packageName":  "com.kitsunepll.kinozaltv",
+        "size":  4744162,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/KinozalTV-Client-1.12.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/KinozalTV-Client-1.12.png"
     },
     {
         "name":  "KOSINST-v2.0.apk",
