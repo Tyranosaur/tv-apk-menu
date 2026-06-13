@@ -1,0 +1,245 @@
+﻿[
+    {
+        "name":  "aerial-views-1.8.2.apk",
+        "displayName":  "Aerial Views",
+        "description":  "Экранная заставка с красивыми воздушными видеопанорамами.",
+        "packageName":  "com.neilturner.aerialviews",
+        "size":  8200663,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/aerial-views-1.8.2.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/aerial-views-1.8.2.png"
+    },
+    {
+        "name":  "analiti+2023.12.75001.75001.apk",
+        "displayName":  "analiti",
+        "description":  "Проверка скорости интернета и диагностика сети Wi-Fi.",
+        "packageName":  "com.analiti.fastest.android",
+        "size":  38018991,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/analiti%2B2023.12.75001.75001.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/analiti_2023.12.75001.75001.png"
+    },
+    {
+        "name":  "BrowseHere-Browser-for-TV-official.apk",
+        "displayName":  "BrowseHere",
+        "description":  "Веб-браузер, адаптированный для управления с телевизора.",
+        "packageName":  "com.tcl.browser",
+        "size":  20676854,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/BrowseHere-Browser-for-TV-official.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/BrowseHere-Browser-for-TV-official.png"
+    },
+    {
+        "name":  "cm-aptoidetv-pt-542-5.1.3.apk",
+        "displayName":  "Aptoide TV",
+        "description":  "Альтернативный магазин приложений для Android TV.",
+        "packageName":  "cm.aptoidetv.pt",
+        "size":  12055830,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/cm-aptoidetv-pt-542-5.1.3.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/cm-aptoidetv-pt-542-5.1.3.png"
+    },
+    {
+        "name":  "DRM Play Lite 1.56.2.apk",
+        "displayName":  "DRM-Play Lite",
+        "description":  "Воспроизведение защищённых DRM-видеопотоков и плейлистов.",
+        "packageName":  "com.drm_play.lite",
+        "size":  4137117,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/DRM%20Play%20Lite%201.56.2.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/DRM_Play_Lite_1.56.2.png"
+    },
+    {
+        "name":  "EasyInstaller_v4_adb.apk",
+        "displayName":  "Easy Installer",
+        "description":  "Установка APK на Android TV и приставки.",
+        "packageName":  "ru.yourok.installer",
+        "size":  2911056,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/EasyInstaller_v4_adb.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/EasyInstaller_v4_adb.png"
+    },
+    {
+        "name":  "HDRezka-Android-1.1.6.apk",
+        "displayName":  "HDRezka",
+        "description":  "Клиент видеокаталога HDRezka для Android.",
+        "packageName":  "com.hdrezka.compose",
+        "size":  12550694,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/HDRezka-Android-1.1.6.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/HDRezka-Android-1.1.6.png"
+    },
+    {
+        "name":  "k1.34.apk",
+        "displayName":  "Kinopub",
+        "description":  "ÐŸÑ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ Ð´Ð»Ñ Android TV.",
+        "packageName":  "com.kinopub",
+        "size":  7852009,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/k1.34.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/k1.34.png"
+    },
+    {
+        "name":  "Kinobase-TV-v14.apk",
+        "displayName":  "Kinobase TV",
+        "description":  "Домашний видеокаталог Kinobase для телевизора.",
+        "packageName":  "org.example.kinobasetv",
+        "size":  30710,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/Kinobase-TV-v14.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/Kinobase-TV-v14.png"
+    },
+    {
+        "name":  "KinoTrend-2.3.8.apk",
+        "displayName":  "KinoTrend",
+        "description":  "Каталог фильмов с интерфейсом для Android TV.",
+        "packageName":  "ru.tiardev.kinotrend",
+        "size":  3944263,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/KinoTrend-2.3.8.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/KinoTrend-2.3.8.png"
+    },
+    {
+        "name":  "KOSINST-v2.0.apk",
+        "displayName":  "KOSINST",
+        "description":  "Каталог и установщик приложений для Android TV.",
+        "packageName":  "org.example.mytvinstaller",
+        "size":  4183239,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/KOSINST-v2.0.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/KOSINST-v2.0.png"
+    },
+    {
+        "name":  "krasview (1.1.69) @TVBoxStorage.apk",
+        "displayName":  "krasview",
+        "description":  "Просмотр телеканалов и видеоконтента на телевизоре.",
+        "packageName":  "ru.video.krasview",
+        "size":  30725536,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/krasview%20(1.1.69)%20%40TVBoxStorage.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/krasview__1.1.69___TVBoxStorage.png"
+    },
+    {
+        "name":  "lampa-v1.12.5-app-lite-release.apk",
+        "displayName":  "LAMPA",
+        "description":  "Медиакаталог для поиска фильмов и сериалов.",
+        "packageName":  "top.rootu.lampa",
+        "size":  11709012,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/lampa-v1.12.5-app-lite-release.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/lampa-v1.12.5-app-lite-release.png"
+    },
+    {
+        "name":  "LazyMediaDeluxe_ver3.454.apk",
+        "displayName":  "LazyMedia Deluxe",
+        "description":  "Медиакаталог и агрегатор видеоконтента.",
+        "packageName":  "com.lazycatsoftware.lmd",
+        "size":  11143573,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/LazyMediaDeluxe_ver3.454.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/LazyMediaDeluxe_ver3.454.png"
+    },
+    {
+        "name":  "NUМ — Nо UI Mоvies v1.0.135.apk",
+        "displayName":  "NUМ — Nо UI Mоvies v1.0.135",
+        "description":  "ÐŸÑ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ Ð´Ð»Ñ Android TV.",
+        "packageName":  "",
+        "size":  14813107,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/NU%D0%9C%20%E2%80%94%20N%D0%BE%20UI%20M%D0%BEvies%20v1.0.135.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/NU____N__UI_M_vies_v1.0.135.png"
+    },
+    {
+        "name":  "ott-play-foss-v1.54.apk",
+        "displayName":  "OTT-play FOSS",
+        "description":  "IPTV-плеер для пользовательских плейлистов.",
+        "packageName":  "com.ott_play",
+        "size":  4957619,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/ott-play-foss-v1.54.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/ott-play-foss-v1.54.png"
+    },
+    {
+        "name":  "SerialTrend-0.0.4.apk",
+        "displayName":  "SerialTrend",
+        "description":  "Каталог сериалов для Android TV.",
+        "packageName":  "ru.twicker.serialtrend",
+        "size":  4000566,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/SerialTrend-0.0.4.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/SerialTrend-0.0.4.png"
+    },
+    {
+        "name":  "ShowJet-1.7.60-full.apk",
+        "displayName":  "ShowJet",
+        "description":  "Клиент видеосервиса ShowJet.",
+        "packageName":  "ru.showjet.cinema",
+        "size":  36397038,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/ShowJet-1.7.60-full.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/ShowJet-1.7.60-full.png"
+    },
+    {
+        "name":  "teamplayer-2.2.2.apk",
+        "displayName":  "TeamPlay",
+        "description":  "Медиаплеер для видео, потоков и сетевых источников.",
+        "packageName":  "com.example.teamplayer",
+        "size":  10985454,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/teamplayer-2.2.2.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/teamplayer-2.2.2.png"
+    },
+    {
+        "name":  "technzon-tv-search.apk",
+        "displayName":  "TECHNOZON TV Search",
+        "description":  "Поиск приложений и полезных ресурсов для Android TV.",
+        "packageName":  "ua.tvsearch.app",
+        "size":  3740264,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/technzon-tv-search.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/technzon-tv-search.png"
+    },
+    {
+        "name":  "technzon-tv-search-unified-release.apk",
+        "displayName":  "TECHNOZON TV Search",
+        "description":  "Поиск приложений и полезных ресурсов для Android TV.",
+        "packageName":  "ua.tvsearch.app",
+        "size":  3696236,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/technzon-tv-search-unified-release.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/technzon-tv-search-unified-release.png"
+    },
+    {
+        "name":  "TorrServe_MatriX.141.Client-release.apk",
+        "displayName":  "TorrServe MatriX",
+        "description":  "Потоковое воспроизведение торрент-видео без ожидания загрузки.",
+        "packageName":  "ru.yourok.torrserve",
+        "size":  11891023,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/TorrServe_MatriX.141.Client-release.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/TorrServe_MatriX.141.Client-release.png"
+    },
+    {
+        "name":  "TuDiziPlay-1.1.8-armv7.apk",
+        "displayName":  "TuDiziPlay",
+        "description":  "Плеер и каталог турецких сериалов.",
+        "packageName":  "ru.tuseries.app",
+        "size":  16210920,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/TuDiziPlay-1.1.8-armv7.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/TuDiziPlay-1.1.8-armv7.png"
+    },
+    {
+        "name":  "VimuInstaller.apk",
+        "displayName":  "Vimu Installer",
+        "description":  "Мощный медиаплеер для Android TV и сетевых источников.",
+        "packageName":  "net.gtvbox.installer",
+        "size":  9582006,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/VimuInstaller.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/VimuInstaller.png"
+    },
+    {
+        "name":  "Vimu-MediaPlayer-10.83-official.apk",
+        "displayName":  "Vimu Media Player",
+        "description":  "Мощный медиаплеер для Android TV и сетевых источников.",
+        "packageName":  "net.gtvbox.videoplayer",
+        "size":  60618371,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/Vimu-MediaPlayer-10.83-official.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/Vimu-MediaPlayer-10.83-official.png"
+    },
+    {
+        "name":  "VK-Video-v.2.51.atv.apk",
+        "displayName":  "VK Video",
+        "description":  "Просмотр VK Видео на телевизоре.",
+        "packageName":  "com.vk.tv",
+        "size":  36294859,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/VK-Video-v.2.51.atv.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/VK-Video-v.2.51.atv.png"
+    },
+    {
+        "name":  "X-plore-File-Manager-4.46.00-official.apk",
+        "displayName":  "X-plore",
+        "description":  "Двухпанельный файловый менеджер для Android и Android TV.",
+        "packageName":  "com.lonelycatgames.Xplore",
+        "size":  11251127,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/X-plore-File-Manager-4.46.00-official.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/X-plore-File-Manager-4.46.00-official.png"
+    }
+]

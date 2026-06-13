@@ -1,5 +1,6 @@
 $ErrorActionPreference = "Stop"
 
+& "$PSScriptRoot\generate-catalog.ps1"
 & "$PSScriptRoot\update-menu.ps1"
 Push-Location $PSScriptRoot
 try {
