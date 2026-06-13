@@ -130,16 +130,6 @@
         "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/lampa-v1.12.5-app-lite-release.png"
     },
     {
-        "name":  "LazyMediaDeluxe_ver3.455.apk",
-        "displayName":  "LazyMedia Deluxe",
-        "versionName":  "3.455",
-        "description":  "Медиакаталог и агрегатор видеоконтента.",
-        "packageName":  "com.lazycatsoftware.lmd",
-        "size":  11143617,
-        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/LazyMediaDeluxe_ver3.455.apk",
-        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/LazyMediaDeluxe_ver3.455.png"
-    },
-    {
         "name":  "NUМ — Nо UI Mоvies v1.0.135.apk",
         "displayName":  "NUМ — Nо UI Mоvies v1.0.135",
         "versionName":  "1.0.135",
