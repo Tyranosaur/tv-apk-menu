@@ -180,15 +180,6 @@
         "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/technzon-tv-search.png"
     },
     {
-        "name":  "technzon-tv-search-unified-release.apk",
-        "displayName":  "TECHNOZON TV Search",
-        "description":  "Поиск приложений и полезных ресурсов для Android TV.",
-        "packageName":  "ua.tvsearch.app",
-        "size":  3696236,
-        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/technzon-tv-search-unified-release.apk",
-        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/technzon-tv-search-unified-release.png"
-    },
-    {
         "name":  "TorrServe_MatriX.141.Client-release.apk",
         "displayName":  "TorrServe MatriX",
         "description":  "Потоковое воспроизведение торрент-видео без ожидания загрузки.",
