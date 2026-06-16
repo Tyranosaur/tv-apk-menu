@@ -160,6 +160,16 @@
         "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/PrismaTV-1.2.1.png"
     },
     {
+        "name":  "Seena-1.6.6-arm64-v8a.apk",
+        "displayName":  "Seena",
+        "versionName":  "1.6.6",
+        "description":  "Онлайн-кинотеатр и медиакаталог для просмотра на Android TV.",
+        "packageName":  "com.seena.app",
+        "size":  47516862,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/Seena-1.6.6-arm64-v8a.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/Seena-1.6.6-arm64-v8a.png"
+    },
+    {
         "name":  "SerialTrend-0.0.4.apk",
         "displayName":  "SerialTrend",
         "versionName":  "0.0.4a",
