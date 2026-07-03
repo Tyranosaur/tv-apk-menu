@@ -202,10 +202,10 @@
     {
         "name":  "technzon-tv-search.apk",
         "displayName":  "TECHNOZON TV Search",
-        "versionName":  "1.0.13",
+        "versionName":  "2.0.1-tvquick",
         "description":  "Поиск приложений и полезных ресурсов для Android TV.",
         "packageName":  "ua.tvsearch.app",
-        "size":  3740264,
+        "size":  7453089,
         "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/technzon-tv-search.apk",
         "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/technzon-tv-search.png"
     },
