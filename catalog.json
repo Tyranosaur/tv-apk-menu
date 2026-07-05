@@ -80,14 +80,14 @@
         "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/FileManager-Plus-3.7.8.png"
     },
     {
-        "name":  "HDRezka-Android-1.1.6.apk",
-        "displayName":  "HDRezka",
-        "versionName":  "1.1.6",
+        "name":  "HDrezka-App-2.2.5.apk",
+        "displayName":  "HDrezka App",
+        "versionName":  "2.2.5",
         "description":  "Клиент видеокаталога HDRezka для Android.",
-        "packageName":  "com.hdrezka.compose",
-        "size":  12550694,
-        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/HDRezka-Android-1.1.6.apk",
-        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/HDRezka-Android-1.1.6.png"
+        "packageName":  "com.falcofemoralis.hdrezkaapp",
+        "size":  13160657,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/HDrezka-App-2.2.5.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/HDrezka-App-2.2.5.png"
     },
     {
         "name":  "jellyfin-androidtv-v0.19.9-debug.apk",
