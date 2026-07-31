@@ -10,6 +10,16 @@
         "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/aerial-views-1.8.2.png"
     },
     {
+        "name":  "analiti v2026.07.96293 (PREMIUM).apk",
+        "displayName":  "analiti",
+        "versionName":  "2026.07.96293",
+        "description":  "Проверка скорости интернета и диагностика сети Wi-Fi.",
+        "packageName":  "com.analiti.fastest.android",
+        "size":  18828552,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/analiti%20v2026.07.96293%20(PREMIUM).apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/analiti_v2026.07.96293__PREMIUM_.png"
+    },
+    {
         "name":  "analiti+2023.12.75001.75001.apk",
         "displayName":  "analiti",
         "versionName":  "2023.12.75001",
@@ -80,6 +90,16 @@
         "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/FileManager-Plus-3.7.8.png"
     },
     {
+        "name":  "Free TV 3.15.0.apk",
+        "displayName":  "Free TV",
+        "versionName":  "3.15.0",
+        "description":  "Приложение Free TV для просмотра телеканалов на Android TV.",
+        "packageName":  "net.oqee.androidtv.store",
+        "size":  13829267,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/Free%20TV%203.15.0.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/Free_TV_3.15.0.png"
+    },
+    {
         "name":  "HDrezka-App-2.2.5.apk",
         "displayName":  "HDrezka App",
         "versionName":  "2.2.5",
@@ -130,6 +150,16 @@
         "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/lampa-v1.12.5-app-lite-release.png"
     },
     {
+        "name":  "Live TV V.1.4.2.0.apk",
+        "displayName":  "Live TV",
+        "versionName":  "V.1.4.2.0",
+        "description":  "Приложение для просмотра телевизионных каналов на Android TV.",
+        "packageName":  "com.nes.seilivetv",
+        "size":  30830756,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/Live%20TV%20V.1.4.2.0.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/Live_TV_V.1.4.2.0.png"
+    },
+    {
         "name":  "NUМ — Nо UI Mоvies v1.0.135.apk",
         "displayName":  "NUМ — Nо UI Mоvies v1.0.135",
         "versionName":  "1.0.135",
@@ -160,6 +190,16 @@
         "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/PrismaTV-1.2.1.png"
     },
     {
+        "name":  "ProjectivyLauncher-4.71-c95-xda-release.apk",
+        "displayName":  "Projectivy Launcher",
+        "versionName":  "4.71",
+        "description":  "Настраиваемый лаунчер и домашний экран для Android TV.",
+        "packageName":  "com.spocky.projengmenu",
+        "size":  11316610,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/ProjectivyLauncher-4.71-c95-xda-release.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/ProjectivyLauncher-4.71-c95-xda-release.png"
+    },
+    {
         "name":  "Seena-1.6.6-arm64-v8a.apk",
         "displayName":  "Seena",
         "versionName":  "1.6.6",
@@ -168,6 +208,26 @@
         "size":  47516862,
         "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/Seena-1.6.6-arm64-v8a.apk",
         "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/Seena-1.6.6-arm64-v8a.png"
+    },
+    {
+        "name":  "SEI804_Advanced_Menu_3.0.apk",
+        "displayName":  "SEI804 Advanced Menu",
+        "versionName":  "3.0",
+        "description":  "Расширенное системное меню для приставки SEI804.",
+        "packageName":  "com.jamal2367.advancedmenu",
+        "size":  2120817,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/SEI804_Advanced_Menu_3.0.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/SEI804_Advanced_Menu_3.0.png"
+    },
+    {
+        "name":  "SEI804_CPUInfoOverlay_1.0.apk",
+        "displayName":  "SEI804 CPUInfoOverlay",
+        "versionName":  "1.0",
+        "description":  "Отображение параметров процессора и системы поверх экрана на SEI804.",
+        "packageName":  "com.jamal2367.cpuinfooverlay",
+        "size":  3333244,
+        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/SEI804_CPUInfoOverlay_1.0.apk",
+        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/SEI804_CPUInfoOverlay_1.0.png"
     },
     {
         "name":  "SerialTrend-0.0.4.apk",
