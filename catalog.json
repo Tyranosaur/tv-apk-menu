@@ -90,16 +90,6 @@
         "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/FileManager-Plus-3.7.8.png"
     },
     {
-        "name":  "Free TV 3.15.0.apk",
-        "displayName":  "Free TV",
-        "versionName":  "3.15.0",
-        "description":  "Приложение Free TV для просмотра телеканалов на Android TV.",
-        "packageName":  "net.oqee.androidtv.store",
-        "size":  13829267,
-        "downloadUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/Free%20TV%203.15.0.apk",
-        "iconUrl":  "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/Free_TV_3.15.0.png"
-    },
-    {
         "name":  "HDrezka-App-2.2.5.apk",
         "displayName":  "HDrezka App",
         "versionName":  "2.2.5",
