@@ -170,14 +170,14 @@
     "iconUrl": "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/ProjectivyLauncher-4.71-c95-xda-release.png"
   },
   {
-    "name": "Seena_1.7.1.apk",
+    "name": "Seena-1.7.1-arm64-v8a.apk",
     "displayName": "Seena",
     "versionName": "1.7.1",
     "description": "Онлайн-кинотеатр и медиакаталог для просмотра на Android TV.",
     "packageName": "com.seena.app",
-    "size": 135495494,
-    "downloadUrl": "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/Seena_1.7.1.apk",
-    "iconUrl": "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/Seena_1.7.1.png"
+    "size": 47570203,
+    "downloadUrl": "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/Seena-1.7.1-arm64-v8a.apk",
+    "iconUrl": "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/Seena-1.7.1-arm64-v8a.png"
   },
   {
     "name": "SEI804_Advanced_Menu_3.0.apk",
