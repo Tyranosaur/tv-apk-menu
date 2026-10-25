@@ -170,14 +170,14 @@
     "iconUrl": "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/ProjectivyLauncher-4.71-c95-xda-release.png"
   },
   {
-    "name": "Seena-1.7.1-arm64-v8a.apk",
+    "name": "Seena-1.9.0.apk",
     "displayName": "Seena",
-    "versionName": "1.7.1",
+    "versionName": "1.9.0",
     "description": "Онлайн-кинотеатр и медиакаталог для просмотра на Android TV.",
     "packageName": "com.seena.app",
-    "size": 47570203,
-    "downloadUrl": "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/Seena-1.7.1-arm64-v8a.apk",
-    "iconUrl": "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/Seena-1.7.1-arm64-v8a.png"
+    "size": 135796230,
+    "downloadUrl": "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/Seena-1.9.0.apk",
+    "iconUrl": "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/Seena-1.9.0.png"
   },
   {
     "name": "SEI804_Advanced_Menu_3.0.apk",
@@ -228,16 +228,6 @@
     "size": 10985454,
     "downloadUrl": "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/teamplayer-2.2.2.apk",
     "iconUrl": "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/teamplayer-2.2.2.png"
-  },
-  {
-    "name": "technzon-tv-search.apk",
-    "displayName": "TECHNOZON TV Search",
-    "versionName": "2.0.1-tvquick",
-    "description": "Поиск приложений и полезных ресурсов для Android TV.",
-    "packageName": "ua.tvsearch.app",
-    "size": 7453089,
-    "downloadUrl": "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/apks/technzon-tv-search.apk",
-    "iconUrl": "https://raw.githubusercontent.com/Tyranosaur/tv-apk-menu/main/icons/technzon-tv-search.png"
   },
   {
     "name": "TorrServe_MatriX.141.Client-release.apk",
